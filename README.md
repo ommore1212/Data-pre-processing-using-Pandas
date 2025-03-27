@@ -9,11 +9,10 @@ This project focuses on **data preprocessing** using **Pandas**, covering essent
 🛠 **Technologies Used**:  
 - **Python** 🐍  
 - **Pandas, NumPy** 📊  
-- **Matplotlib, Seaborn** 📊  
+
 
 📜 **Techniques Used**:  
 - Handling **missing values**  
 - Encoding **categorical data**  
 - **Feature scaling & normalization**  
 
-🔗 **GitHub Repository**: [GitHub Link](#)
